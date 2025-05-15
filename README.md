@@ -1,2 +1,2 @@
 # Boneco-p5js
-Um boneco.....
+Um boneco que olha na direção do seu cursor
